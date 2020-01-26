@@ -1,0 +1,12 @@
+{
+    "name": "insightwhale/resultkitchen",
+    "authors": [
+        {
+            "name": "David Jaeger (on behalf of authors",
+            "email": "david@resultkitchen.com"
+        }
+    ],
+    "require": {
+        "rmccue/requests": "^1.7"
+    }
+}
